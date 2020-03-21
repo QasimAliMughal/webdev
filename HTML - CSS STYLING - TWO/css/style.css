@@ -1,0 +1,22 @@
+body {
+    background-color: #eaf6f6;
+}
+
+hr {
+    background-color: white;
+    border-color: grey;
+    width: 6%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 6px;
+}
+
+h2,
+h3,
+h4 {
+    color: #66bfbf;
+}
+
+.circular {
+    border-radius: 100%;
+}
