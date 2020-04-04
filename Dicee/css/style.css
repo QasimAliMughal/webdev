@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: #434e52;
+}
+
+
+.main-heading{
+    color: #7fcd91;
+    font-family: 'Pacifico', cursive;
+    margin-top: 17px;
+    font-size: 100px;
+
+}
+
+.sub-heading{
+    color: #7fcd91;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+.footer-content a{
+    color: #f4f3f3;
+    font-family: 'Pacifico',cursive;
+
+}
+.row-content{
+    padding: 5% 15%;
+}
+
+#player-one-dice,#player-two-dice{
+    width: 180px;
+}
